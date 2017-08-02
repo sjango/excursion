@@ -16,14 +16,14 @@ h2 {
 
 }
 p {
-	color:grey;
+	color: grey;
 	font-size: 21px;
 	text-align: center
 }
-.download-link p {
+a {
+	color: aquamarine;
 	font-size: 16px;
-	color: Aquamarine;
-	text-align: center
+}
 }
 .footer p {
 	text-align: right;
