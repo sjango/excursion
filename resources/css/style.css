@@ -17,3 +17,10 @@ p {
 	color:grey;
 	font-size: 21px;
 }
+.download-link p {
+	font-size: 16px;
+	color: Aquamarine;
+}
+.copyright p {
+	text-align: right;
+}
